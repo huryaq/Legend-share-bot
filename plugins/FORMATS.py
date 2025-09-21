@@ -3,7 +3,7 @@
 #text formatting....
 
 on_pic = "https://graph.org/file/6c5b333721d74cda1dbf8-ecc1067ca85a253462.jpg"
-off_pic = "https://graph.org/file/7f012d928f14dbea7a80b-a6b6aba9cea920c18d.jpg"
+off_pic = "https://graph.org/file/8279929cb9b305442328e-8cab97b85964501bd7.jpg"
 files_cmd_pic = "https://envs.sh/Nyc.jpg"
 autodel_cmd_pic = "https://envs.sh/NyZ.jpg"
 
@@ -39,7 +39,7 @@ HELP_TEXT = """<b>⁉️ Hᴇʏ...!! {mention} ~
 <b><i>◈ Sᴛɪʟʟ ʜᴀᴠᴇ ᴅᴏᴜʙᴛs, ᴄᴏɴᴛᴀᴄᴛ ʙᴇʟᴏᴡ ᴘᴇʀsᴏɴs/ɢʀᴏᴜᴘ ᴀs ᴘᴇʀ ʏᴏᴜʀ ɴᴇᴇᴅ !</i></b>"""
 
 ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {botname}
-<blockquote><b>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/devil_eyes_xe>ᴅᴇᴠɪʟ ᴇʏᴇs</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/+dOq9NGO0hk0zMTFl>ᴀᴋᴀᴛsᴜᴋɪ ᴢᴏɴᴇ</a>\n» ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+OqtFy8lx1AZlNGNl>ᴀɴɪᴍᴇ ᴛʀɪx</a>\n» sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+FpmwDF-BxYM0NDg1>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>\n» ᴀᴅᴜʟᴛ ᴢᴏɴᴇ : <a href=https://t.me/Hentaix_Zone>ʜᴇɴᴛᴀɪ ᴢᴏɴᴇ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/DoraShin_hlo>➳≛⃝Gojo</a></blockquote></b>"""
+<blockquote><b>◈ ᴄʀᴇᴀᴛᴏʀ: <a href=https://t.me/devil_eyes_xe>ᴅᴇᴠɪʟ ᴇʏᴇs</a>\n◈ ꜰᴏᴜɴᴅᴇʀ ᴏꜰ : <a href=https://t.me/+dOq9NGO0hk0zMTFl>ᴀᴋᴀᴛsᴜᴋɪ ᴢᴏɴᴇ</a>\n◈ ᴀɴɪᴍᴇ ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+OqtFy8lx1AZlNGNl>ᴀɴɪᴍᴇ ᴛʀɪx</a>\n◈ sᴇʀɪᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/+FpmwDF-BxYM0NDg1>ᴡᴇʙsᴇʀɪᴇs ғʟɪx</a>\n◈ ᴀᴅᴜʟᴛ ᴢᴏɴᴇ : <a href=https://t.me/Hentaix_Zone>ʜᴇɴᴛᴀɪ ᴢᴏɴᴇ</a>\n◈ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/DoraShin_hlo>➳≛⃝Gojo</a></blockquote></b>"""
 
 SETTING_TXT = """<b>»  Cᴏɴғɪɢᴜʀᴀᴛɪᴏɴs</b>
 <blockquote expandable>» ᴛᴏᴛᴀʟ ғᴏʀᴄᴇ sᴜʙ ᴄʜᴀɴɴᴇʟ:  <b>{total_fsub}</b>
